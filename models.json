@@ -110,7 +110,7 @@
     "license_name": "STABILITY AI",
     "license_url": "https://huggingface.co/stabilityai/stable-code-3b/blob/main/LICENSE",
     "prompt_template": "<fim_prefix>{prefix}<fim_suffix>{suffix}<fim_middle>",
-    "provider_url": "https://huggingface.co/stabilityai/stable-code-3b/",
+    "provider_url": "https://huggingface.co/stabilityai/stable-code-3b",
     "urls": [
       "https://huggingface.co/stabilityai/stable-code-3b/resolve/main/stable-code-3b-Q6_K.gguf"
     ],
