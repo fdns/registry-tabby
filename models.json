@@ -110,10 +110,10 @@
     "license_name": "STABILITY AI",
     "license_url": "https://huggingface.co/stabilityai/stable-code-3b/blob/main/LICENSE",
     "prompt_template": "<fim_prefix>{prefix}<fim_suffix>{suffix}<fim_middle>",
-    "provider_url": "https://huggingface.co/stabilityai/stable-code-3b",
+    "provider_url": "https://huggingface.co/TheBloke/stable-code-3b-GGUF",
     "urls": [
-      "https://huggingface.co/stabilityai/stable-code-3b/resolve/main/stable-code-3b-Q6_K.gguf"
+      "https://huggingface.co/TheBloke/stable-code-3b-GGUF/resolve/main/stable-code-3b.Q8_0.gguf"
     ],
-    "sha256": "9749DAF176491C33A7318660F1637C97674B0070D81740BE8763B2811C495BFC"
+    "sha256": "B035A641F366A02231DDD137842E760B20B9E6E4D99ECC20BEA6CF999ED62331"
   }
 ]
